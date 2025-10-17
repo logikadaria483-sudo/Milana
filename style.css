@@ -1,0 +1,24 @@
+nav a {
+    font-size: 20px;
+    text-decoration:none;
+    background-color:white;
+    border-radius: 10px;
+    color:#d417b4;
+    border: 3px solid #d417b4 ;
+    padding:0px 10px;
+    margin: 0px 10px;
+}
+nav { 
+    text-align: center;
+}
+
+section {
+    border:3px solid #d417b4;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+background-color: white;
+}
+img {
+    padding:10px;
+}
