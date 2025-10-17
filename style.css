@@ -23,5 +23,5 @@ img {
     padding:10px;
 }
 p{
-    font-size:36px;
+    font-size:36px !important;
 }
