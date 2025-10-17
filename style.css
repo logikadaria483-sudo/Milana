@@ -1,24 +1,46 @@
+body {
+  background:#ffd6f8;
+  font-family: "Georgia", serif;
+}
+
+h1 {
+  text-align:center;
+  color:#d417b4;
+  background-color:#fcf8f7;
+  font-size:60px;
+}
+
 nav a {
-    font-size: 20px;
-    text-decoration:none;
-    background-color:white;
-    border-radius: 10px;
-    color:#d417b4;
-    border: 3px solid #d417b4 ;
-    padding:0px 10px;
-    margin: 0px 10px;
+  font-size: 26px;
+  text-decoration:none;
+  background-color:white;
+  border-radius: 10px;
+  color:#d417b4;
+  border: 3px solid #d417b4 ;
+  padding:5px 20px;
+  margin: 0px 15px;
 }
 nav { 
-    text-align: center;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+p {
+  font-size: 22px;
+  line-height: 1.5;
 }
 
 section {
-    border:3px solid #d417b4;
-    border-radius: 10px;
-    padding: 10px;
-    margin: 10px;
-background-color: white;
+  border:3px solid #d417b4;
+  border-radius: 15px;
+  padding: 25px;
+  margin: 15px;
+  background-color: white;
 }
-img {
-    padding:10px;
+
+section img {
+  width: 450px;
+  height: auto;
+  border-radius: 10px;
+  padding:10px;
 }
